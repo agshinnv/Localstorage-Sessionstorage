@@ -1,0 +1,33 @@
+header .navigation .basket-icon{
+    font-size: 30px;
+    margin-right: 66px;
+    color: red;
+    position: relative;
+}
+
+
+header .navigation .basket-count{
+    font-size: 20px;
+    top: -13px;
+    position: absolute;
+}
+
+header .navigation .total-price{
+    font-size: 20px;
+    bottom: 7px;
+    position: absolute;
+}
+
+header .navigation .currency{
+    font-size: 20px;
+    bottom: 7px;
+    margin-left: 46px;
+    position: absolute;
+}
+
+#products .card-body .product-price{
+    margin-left: 62px;
+}
+
+
+
